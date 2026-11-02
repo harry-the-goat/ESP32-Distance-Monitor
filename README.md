@@ -23,7 +23,7 @@ An ESP32-based distance monitoring system using an HC-SR04 ultrasonic sensor, OL
 | Distance        | Status  | LED Indication |
 | --------------- | ------- | -------------- |
 | Less than 10 cm | DANGER  | Red + Buzzer   |
-| 10–20 cm        | CAUTION | Red + Green    |
+| 10–20 cm        | CAUTION | Yellow    |
 | 20 cm or more   | SAFE    | Green          |
 
 # Pin Connections
